@@ -6,7 +6,7 @@
 
 ## Vision
 
-The Research Publishing System is designed to enable secure, decentralized publishing of academic papers on the Ethereum blockchain. By leveraging smart contracts, this system ensures transparency and immutability for research papers, facilitating trust and integrity in academic publishing.
+The Research Publishing System is designed to enable secure, decentralized publishing of academic papers on the educhain blockchain. By leveraging smart contracts, this system ensures transparency and immutability for research papers, facilitating trust and integrity in academic publishing.
 
 ## Flowchart
 
